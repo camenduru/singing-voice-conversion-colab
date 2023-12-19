@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/singing-voice-conversion-colab/blob/main/singing_voice_conversion_colab.ipynb) | singing_voice_conversion_colab
 
 ### 🧬 Code
-https://github.com/open-mmlab/Amphion/tree/main/egs/svc/MultipleContentsSVC
+https://github.com/open-mmlab/Amphion
 
 ### 📄 Paper
 https://arxiv.org/abs/2310.11160
